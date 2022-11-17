@@ -1,2 +1,2 @@
 # EtutDersKayitSistemi
- c# ve sql
+C# ve SQL kullanarak Etüt&Ders Kayıt Sistemi
