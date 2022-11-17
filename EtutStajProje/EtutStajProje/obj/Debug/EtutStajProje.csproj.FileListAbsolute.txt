@@ -1,0 +1,14 @@
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\bin\Debug\EtutStajProje.exe.config
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\bin\Debug\EtutStajProje.exe
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\bin\Debug\EtutStajProje.pdb
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.csproj.AssemblyReference.cache
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.Form1.resources
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.Properties.Resources.resources
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.csproj.GenerateResource.cache
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.csproj.CoreCompileInputs.cache
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.exe
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.pdb
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\bin\Debug\agq\EtutStajProje.resources.dll
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\EtutStajProje.Form1.agq.resources
+C:\Users\KINA\source\repos\EtutStajProje\EtutStajProje\obj\Debug\agq\EtutStajProje.resources.dll
