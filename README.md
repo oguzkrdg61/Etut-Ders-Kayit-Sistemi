@@ -1,0 +1,2 @@
+# EtutDersKayitSistemi
+ c# ve sql
